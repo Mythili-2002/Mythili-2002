@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on web development and Python-related projects.
 
-- 🤔 I’m looking for help with the PYTHON language related projects.
+- 🤔 I’m looking for help with the PYTHON related projects.
 
 - ⚡ Fun fact: I love sleeping 😴
 
