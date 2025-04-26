@@ -1,15 +1,3 @@
-### Web developer
-###  Hi there I am Mythili K👋
- 
-   ## I am doing my BE in Electronics and Communication engineering and now I am showing my passion towards Web development.
-
-- 🌱 I’m currently learning at Knowledge Institute of Technology.
-
-- 👯 I’m looking to collaborate on web development and Python-related projects.
-
-- 🤔 I’m looking for help with the PYTHON related projects.
-
-- ⚡ Fun fact: I love sleeping 😴
 
 
 
